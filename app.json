@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Glwvia",
+    "slug": "glwvia-app",
+    "version": "1.0.0",
+    "android": { "package": "com.glwvia.app", "permissions": ["CAMERA","RECORD_AUDIO"] },
+    "ios": { "bundleIdentifier": "com.glwvia.app" },
+    "extra": { "agoraAppId": "f4fdab6664884789b52efc10b8bc63a9" }
+  }
+}
